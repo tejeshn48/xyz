@@ -1,0 +1,13 @@
+1. Worked on daily Tasks.
+2. Worked on different squard's servers like Hosting, Infra, DDS, OTA.
+3.Worked as a good team player.
+4.Worked with microsoft and made sure problematic servers are compliant.
+5.Worked with team to make sure no slipage in monthly tasks.
+6.Contributed to achive 100% comppliance report of patching.
+7.Worked on incidents and provided continues updates and made sure there is no slipage.
+8. Worked on ESU activation.
+9.Worked on SCCM client related issues and provided resolutions.Explored SCCM server
+related tasks and aquired knowledge on SCCM functionlity and monthly SCCM Tasks.
+10.Provided KT on Node movement and worked on bringing up of the servers.
+11.Completed trainings Wipro and ANZ in time.
+12.Provided stand by support to the app teams.

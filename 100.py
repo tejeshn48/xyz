@@ -3,10 +3,10 @@ GitHub
 -Question
 Hints
 Solution
-3. Questions
+3. Questions123
 #----------------------------------------#
 Question 1
-Level 1
+Level 1 hjbjvhcgfx
 Question:
 Write a program which will find all such numbers which are divisible
 by 7 but are not a multiple of 5,
